@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:registration_page/MainScreen.dart';
+import 'package:registration_page/login.dart';
 import 'package:registration_page/SignUp.dart';
 
 void main(){
